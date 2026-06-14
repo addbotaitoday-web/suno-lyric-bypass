@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Lyric Bypass Tool",
+  "description": "Automatically hyphenate song lyrics to bypass copyright filters with adjustable intensity levels.",
+  "requestFramePermissions": []
+}
